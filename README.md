@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ameeshme
-- 👀 I’m interested in ...nothin
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in SQL AND POWERBI
+- 🌱 I’m currently learning PYTHON
+- 💞️ I’m looking to collaborate on Workforce data mining
+- 📫 How to reach me aminatabdulwahab1@gmail.com
+- 😄 Pronouns: She
+- ⚡ Fun fact: Martial Artist
 
 <!---
 Ameeshme/Ameeshme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
